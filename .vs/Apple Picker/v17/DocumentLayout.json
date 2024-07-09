@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Oleksandr\\Desktop\\Apple Picker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|c:\\users\\oleksandr\\desktop\\apple picker\\assets\\scripts\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|c:\\users\\oleksandr\\desktop\\apple picker\\assets\\scripts\\applepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\applepicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|c:\\users\\oleksandr\\desktop\\apple picker\\assets\\scripts\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|c:\\users\\oleksandr\\desktop\\apple picker\\assets\\scripts\\appletree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5F87869-CCA3-FA7C-CE6B-EC211EECCB4A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\appletree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\Apple Picker\\Assets\\Scripts\\Basket.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Basket.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\Apple Picker\\Assets\\Scripts\\Basket.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Basket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:46:47.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplePicker.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\Apple Picker\\Assets\\Scripts\\ApplePicker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ApplePicker.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\Apple Picker\\Assets\\Scripts\\ApplePicker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ApplePicker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:40:44.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\Apple Picker\\Assets\\Scripts\\Apple.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Apple.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\Apple Picker\\Assets\\Scripts\\Apple.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Apple.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:30:59.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppleTree.cs",
               "DocumentMoniker": "C:\\Users\\Oleksandr\\Desktop\\Apple Picker\\Assets\\Scripts\\AppleTree.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AppleTree.cs",
               "ToolTip": "C:\\Users\\Oleksandr\\Desktop\\Apple Picker\\Assets\\Scripts\\AppleTree.cs",
               "RelativeToolTip": "Assets\\Scripts\\AppleTree.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCYAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T19:59:10.931Z",
               "EditorCaption": ""

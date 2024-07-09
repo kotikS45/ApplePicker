@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 369723112}
   - component: {fileID: 369723111}
   - component: {fileID: 369723113}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: AppleTree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -196,9 +196,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e8b4e7d208e320409b48f0df4f6147e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  applePrefab: {fileID: 0}
+  applePrefab: {fileID: 2984756967128186344, guid: 92c18ed48f7d79e44b137ffa490ef138, type: 3}
   speed: 10
-  leftAndRightEdge: 25
+  leftAndRightEdge: 20
   chanceToChangeDirections: 0.1
   secondsBetweenAppleDrops: 1
 --- !u!1 &705507993
@@ -306,6 +306,7 @@ GameObject:
   - component: {fileID: 963194228}
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
+  - component: {fileID: 963194229}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -387,6 +388,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &963194229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c02d03f5ca8ec7f4d9126f23072bfaad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  basketPrefab: {fileID: 4174786772300683227, guid: dd91717be78f44f49b648eba34793e4f, type: 3}
+  numBaskets: 3
+  basketBottomY: -14
+  basketSpacingY: 2
 --- !u!1 &1628994215
 GameObject:
   m_ObjectHideFlags: 0
@@ -399,7 +416,7 @@ GameObject:
   - component: {fileID: 1628994219}
   - component: {fileID: 1628994218}
   - component: {fileID: 1628994217}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Thrunk
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -506,7 +523,7 @@ GameObject:
   - component: {fileID: 1706985600}
   - component: {fileID: 1706985599}
   - component: {fileID: 1706985598}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Leaves
   m_TagString: Untagged
   m_Icon: {fileID: 0}
